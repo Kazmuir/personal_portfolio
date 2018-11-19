@@ -27,6 +27,6 @@ Responsiveness and scalability was an important aspect of this project, and whil
 
 ![Desktop Outcome Image](https://i.imgur.com/mk9MTBe.png?1)
 
-### Conclusion:
+# Conclusion:
 
 The goal of this design was to showcase my use of Javascript and CSS3 to create a modern, simple design that displays my work in a fun and straightforward way.
