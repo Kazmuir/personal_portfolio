@@ -3,7 +3,7 @@ This portfolio was created in preparation for my 2019 internship applications. I
 
 # Process
 
-I knew I wanted a simple website that leaves little room for confusion. As application deadlines approached, I had little time to create a sufficient website that properly communicates my personality (<1 week). The first step in this process was creating a simple mockup design in Adobe Illustrator that would give me direction before diving into coding.
+I knew I wanted a simple website that leaves little room for confusion. As application deadlines approached, I had little time, but wanted to create a sufficient website that properly communicates my personality (<1 week). The first step in this process was creating a simple mockup design in Adobe Illustrator that would give me direction before diving into coding.
 
 ### Mockup:
 
