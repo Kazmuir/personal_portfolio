@@ -9,7 +9,7 @@ I knew I wanted a simple website that leaves little room for confusion. As appli
 
 ![Portfolio Mockup Image](https://i.imgur.com/kE86gXZ.png?1)
 
-At the most I allowed for three sections, each of a dramtically different color to add guidance to the eyes of the user. I was purposeful in the color choices, with each emphasizing a positive and radiant emotion (**purple:** uniqueness   **red:** excitement   **yellow:** optimism). All possible options are displayed to the user, and each section is clearly labeled to show value.
+At the most I allowed for three sections, each of a dramatically different color to add guidance to the eyes of the user. I was purposeful in the color choices, with each emphasizing a positive and radiant emotion (**purple:** uniqueness   **red:** excitement   **yellow:** optimism). All possible options are displayed to the user, and each section is clearly labeled to show value.
 
 ### Coding:
 
